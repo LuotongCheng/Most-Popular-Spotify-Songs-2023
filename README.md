@@ -1,4 +1,7 @@
 # Audio Features of the Most Popular Songs of 2023 on Spotify
+## RESEARCH QUESTIONS
+What are the correlations between different audio features of the most popular songs of 2023 on Spotify, such as danceability and energy levels? 
+To what extent do audio features influence the popularity of songs on streaming platforms like Spotify and Apple Music?
 ## DESCRIPTION OF THE DATASET
 This dataset includes a list of the most famous songs of 2023 on Spotify. It contains various audio features of popular songs, including danceability, valence, energy, acousticness, instrumentalness, liveness, speechiness, etc. It also contains information related to each song's popularity and presence on various music platforms such as Spotify and Apple Music. The dataset is originally posted by data scientist Nidula Elgiriyewithana on [Kaggle](https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023/).
 ## LIST OF THE VARIABLES
